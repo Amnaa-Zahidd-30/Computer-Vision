@@ -1,4 +1,4 @@
-Computer Vision Image Processing Tool:
+VisionLab --- Computer Vision Technology:
 
 A GUI application for image processing built with Python and OpenCV which Implements basic computer vision operations.
 
